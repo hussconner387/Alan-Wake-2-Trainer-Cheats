@@ -10,7 +10,7 @@
 
 ## Player Mods
 
-    - Infinite Health
+    - Infinite Health 
 
 ## Physics Mods
 
